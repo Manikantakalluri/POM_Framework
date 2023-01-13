@@ -1,0 +1,139 @@
+2022-05-08 16:09:18 INFO  TestBase:67 - chrome is selected
+2022-05-08 16:09:26 INFO  TestBase:77 - Navigated to  :-http://automationpractice.com/index.php
+2022-05-08 16:09:26 INFO  TC001_VerifyLoginPageTest:18 - *************Verify Login Page Test started ***********
+2022-05-08 16:09:29 INFO  LoginPageObjects:54 - click on sign In button
+2022-05-08 16:09:29 INFO  LoginPageObjects:56 - Enter email address
+2022-05-08 16:09:30 INFO  LoginPageObjects:58 - enter password
+2022-05-08 16:09:31 INFO  LoginPageObjects:60 - click on user login button
+2022-05-08 16:09:31 INFO  TC001_VerifyLoginPageTest:21 - *************Verify Login Page Test completed ***********
+2022-05-08 16:09:31 INFO  TestBase:88 - Browser session is closed
+2022-05-08 16:11:11 INFO  TestBase:67 - chrome is selected
+2022-05-08 16:11:19 INFO  TestBase:77 - Navigated to  :-http://automationpractice.com/index.php
+2022-05-08 16:11:20 INFO  TC001_VerifyLoginPageTest:18 - *************Verify Login Page Test started ***********
+2022-05-08 16:11:22 INFO  LoginPageObjects:54 - click on sign In button
+2022-05-08 16:11:22 INFO  LoginPageObjects:56 - Enter email address
+2022-05-08 16:11:22 INFO  LoginPageObjects:58 - enter password
+2022-05-08 16:11:24 INFO  LoginPageObjects:60 - click on user login button
+2022-05-08 16:11:24 INFO  TC001_VerifyLoginPageTest:21 - *************Verify Login Page Test completed ***********
+2022-05-08 16:11:24 INFO  TestBase:88 - Browser session is closed
+2022-05-14 19:45:49 INFO  TestBase:89 - chrome is selected
+2022-05-14 19:45:54 INFO  TestBase:99 - Navigated to  :-http://automationpractice.com/index.php
+2022-05-14 19:45:55 INFO  TC001_VerifyLoginPageTest:18 - *************Verify Login Page Test started ***********
+2022-05-14 19:45:57 INFO  LoginPageObjects:54 - click on sign In button
+2022-05-14 19:45:57 INFO  LoginPageObjects:56 - Enter email address
+2022-05-14 19:45:57 INFO  LoginPageObjects:58 - enter password
+2022-05-14 19:45:58 INFO  LoginPageObjects:60 - click on user login button
+2022-05-14 19:45:58 INFO  TC001_VerifyLoginPageTest:21 - *************Verify Login Page Test completed ***********
+2022-05-14 19:45:59 INFO  TestBase:110 - Browser session is closed
+2022-05-14 19:49:14 INFO  TestBase:89 - chrome is selected
+2022-05-14 19:49:21 INFO  TestBase:99 - Navigated to  :-http://automationpractice.com/index.php
+2022-05-14 19:49:21 INFO  TC001_VerifyLoginPageTest:18 - *************Verify Login Page Test started ***********
+2022-05-14 19:49:23 INFO  LoginPageObjects:54 - click on sign In button
+2022-05-14 19:49:23 INFO  LoginPageObjects:56 - Enter email address
+2022-05-14 19:49:24 INFO  LoginPageObjects:58 - enter password
+2022-05-14 19:49:25 INFO  LoginPageObjects:60 - click on user login button
+2022-05-14 19:49:25 INFO  TC001_VerifyLoginPageTest:21 - *************Verify Login Page Test completed ***********
+2022-05-14 19:49:26 INFO  TestBase:110 - Browser session is closed
+2022-05-14 19:50:09 INFO  TestBase:89 - chrome is selected
+2022-05-14 19:50:15 INFO  TestBase:99 - Navigated to  :-http://automationpractice.com/index.php
+2022-05-14 19:50:15 INFO  TC001_VerifyLoginPageTest:18 - *************Verify Login Page Test started ***********
+2022-05-14 19:50:18 INFO  LoginPageObjects:54 - click on sign In button
+2022-05-14 19:50:18 INFO  LoginPageObjects:56 - Enter email address
+2022-05-14 19:50:18 INFO  LoginPageObjects:58 - enter password
+2022-05-14 19:50:20 INFO  LoginPageObjects:60 - click on user login button
+2022-05-14 19:50:20 INFO  TC001_VerifyLoginPageTest:21 - *************Verify Login Page Test completed ***********
+2022-05-14 19:50:20 INFO  TestBase:110 - Browser session is closed
+2022-05-14 20:03:59 INFO  TestBase:92 - chrome is selected
+2022-05-14 20:04:04 INFO  TestBase:102 - Navigated to  :-http://automationpractice.com/index.php
+2022-05-14 20:04:05 INFO  TC001_VerifyLoginPageTest:18 - *************Verify Login Page Test started ***********
+2022-05-14 20:04:10 INFO  LoginPageObjects:54 - click on sign In button
+2022-05-14 20:04:11 INFO  LoginPageObjects:56 - Enter email address
+2022-05-14 20:04:11 INFO  LoginPageObjects:58 - enter password
+2022-05-14 20:04:13 INFO  LoginPageObjects:60 - click on user login button
+2022-05-14 20:04:13 INFO  TC001_VerifyLoginPageTest:21 - *************Verify Login Page Test completed ***********
+2022-05-14 20:04:14 INFO  TestBase:113 - Browser session is closed
+2022-05-14 20:07:59 INFO  TestBase:93 - chrome is selected
+2022-05-14 20:08:05 INFO  TestBase:103 - Navigated to  :-http://automationpractice.com/index.php
+2022-05-14 20:08:05 INFO  TC001_VerifyLoginPageTest:18 - *************Verify Login Page Test started ***********
+2022-05-14 20:08:07 INFO  LoginPageObjects:54 - click on sign In button
+2022-05-14 20:08:07 INFO  LoginPageObjects:56 - Enter email address
+2022-05-14 20:08:08 INFO  LoginPageObjects:58 - enter password
+2022-05-14 20:08:09 INFO  LoginPageObjects:60 - click on user login button
+2022-05-14 20:08:09 INFO  TC001_VerifyLoginPageTest:21 - *************Verify Login Page Test completed ***********
+2022-05-14 20:08:10 INFO  TestBase:114 - Browser session is closed
+2022-05-14 20:12:22 INFO  TestBase:93 - chrome is selected
+2022-05-14 20:12:30 INFO  TestBase:103 - Navigated to  :-http://automationpractice.com/index.php
+2022-05-14 20:12:30 INFO  TC001_VerifyLoginPageTest:18 - *************Verify Login Page Test started ***********
+2022-05-14 20:12:33 INFO  LoginPageObjects:54 - click on sign In button
+2022-05-14 20:12:33 INFO  LoginPageObjects:56 - Enter email address
+2022-05-14 20:12:33 INFO  LoginPageObjects:58 - enter password
+2022-05-14 20:12:34 INFO  LoginPageObjects:60 - click on user login button
+2022-05-14 20:12:34 INFO  TC001_VerifyLoginPageTest:21 - *************Verify Login Page Test completed ***********
+2022-05-14 20:12:35 INFO  TestBase:114 - Browser session is closed
+2022-05-18 20:01:03 INFO  TestBase:93 - chrome is selected
+2022-05-18 20:01:20 INFO  TestBase:103 - Navigated to  :-http://automationpractice.com/index.php
+2022-05-18 20:01:20 INFO  TC001_VerifyLoginPageTest:18 - *************Verify Login Page Test started ***********
+2022-05-18 20:01:40 INFO  LoginPageObjects:54 - click on sign In button
+2022-05-18 20:01:40 INFO  LoginPageObjects:56 - Enter email address
+2022-05-18 20:01:41 INFO  LoginPageObjects:58 - enter password
+2022-05-18 20:01:52 INFO  LoginPageObjects:60 - click on user login button
+2022-05-18 20:01:52 INFO  TC001_VerifyLoginPageTest:21 - *************Verify Login Page Test completed ***********
+2022-05-18 20:01:53 INFO  TestBase:114 - Browser session is closed
+2022-05-18 20:02:09 INFO  TestBase:93 - chrome is selected
+2022-05-18 20:02:26 INFO  TestBase:103 - Navigated to  :-http://automationpractice.com/index.php
+2022-05-18 20:02:26 INFO  TC001_VerifyLoginPageTest:18 - *************Verify Login Page Test started ***********
+2022-05-18 20:02:43 INFO  LoginPageObjects:54 - click on sign In button
+2022-05-18 20:02:43 INFO  LoginPageObjects:56 - Enter email address
+2022-05-18 20:02:43 INFO  LoginPageObjects:58 - enter password
+2022-05-18 20:02:53 INFO  LoginPageObjects:60 - click on user login button
+2022-05-18 20:02:53 INFO  TC001_VerifyLoginPageTest:21 - *************Verify Login Page Test completed ***********
+2022-05-18 20:02:54 INFO  TestBase:114 - Browser session is closed
+2022-05-18 20:02:57 INFO  TestBase:93 - chrome is selected
+2022-05-18 20:03:11 INFO  TestBase:103 - Navigated to  :-http://automationpractice.com/index.php
+2022-05-18 20:03:11 INFO  TC002_VerifyRegisterPage:18 - *************Verify Login Page Test started ***********
+2022-05-18 20:03:30 INFO  LoginPageObjects:54 - click on sign In button
+2022-05-18 20:03:30 INFO  LoginPageObjects:56 - Enter email address
+2022-05-18 20:03:31 INFO  LoginPageObjects:58 - enter password
+2022-05-18 20:03:31 INFO  LoginPageObjects:60 - click on user login button
+2022-05-18 20:03:31 INFO  TC002_VerifyRegisterPage:21 - *************Verify Login Page Test completed ***********
+2022-05-18 20:03:32 INFO  TestBase:114 - Browser session is closed
+2022-05-18 20:20:59 INFO  TestBase:93 - chrome is selected
+2022-05-18 20:21:00 INFO  TestBase:103 - Navigated to  :-http://automationpractice.com/index.php
+2022-05-18 20:21:00 INFO  TC001_VerifyLoginPageTest:18 - *************Verify Login Page Test started ***********
+2022-05-18 20:21:01 INFO  TestBase:114 - Browser session is closed
+2022-05-18 20:21:03 INFO  TestBase:93 - chrome is selected
+2022-05-18 20:21:20 INFO  TestBase:103 - Navigated to  :-http://automationpractice.com/index.php
+2022-05-18 20:21:20 INFO  TC002_VerifyRegisterPage:18 - *************Verify Login Page Test started ***********
+2022-05-18 20:21:20 INFO  LoginPageObjects:54 - click on sign In button
+2022-05-18 20:21:21 INFO  TestBase:114 - Browser session is closed
+2022-05-18 20:22:29 INFO  TestBase:93 - chrome is selected
+2022-05-18 20:22:43 INFO  TestBase:103 - Navigated to  :-http://automationpractice.com/index.php
+2022-05-18 20:22:43 INFO  TC001_VerifyLoginPageTest:18 - *************Verify Login Page Test started ***********
+2022-05-18 20:23:03 INFO  LoginPageObjects:54 - click on sign In button
+2022-05-18 20:23:03 INFO  LoginPageObjects:56 - Enter email address
+2022-05-18 20:23:03 INFO  LoginPageObjects:58 - enter password
+2022-05-18 20:23:14 INFO  LoginPageObjects:60 - click on user login button
+2022-05-18 20:23:14 INFO  TC001_VerifyLoginPageTest:21 - *************Verify Login Page Test completed ***********
+2022-05-18 20:23:15 INFO  TestBase:114 - Browser session is closed
+2022-05-18 20:23:17 INFO  TestBase:93 - chrome is selected
+2022-05-18 20:23:31 INFO  TestBase:103 - Navigated to  :-http://automationpractice.com/index.php
+2022-05-18 20:23:31 INFO  TC002_VerifyRegisterPage:18 - *************Verify Login Page Test started ***********
+2022-05-18 20:23:31 INFO  LoginPageObjects:54 - click on sign In button
+2022-05-18 20:23:32 INFO  TestBase:114 - Browser session is closed
+2022-08-19 16:10:13 INFO  TestBase:93 - chrome is selected
+2022-08-19 16:10:22 INFO  TestBase:103 - Navigated to  :-http://automationpractice.com/index.php
+2022-08-19 16:10:23 INFO  TC001_VerifyLoginPageTest:18 - *************Verify Login Page Test started ***********
+2022-08-19 16:10:26 INFO  LoginPageObjects:54 - click on sign In button
+2022-08-19 16:10:27 INFO  LoginPageObjects:56 - Enter email address
+2022-08-19 16:10:27 INFO  LoginPageObjects:58 - enter password
+2022-08-19 16:10:28 INFO  LoginPageObjects:60 - click on user login button
+2022-08-19 16:10:28 INFO  TC001_VerifyLoginPageTest:21 - *************Verify Login Page Test completed ***********
+2022-08-19 16:10:29 INFO  TestBase:114 - Browser session is closed
+2023-01-07 23:14:02 INFO  TestBase:93 - chrome is selected
+2023-01-07 23:14:04 INFO  TestBase:103 - Navigated to  :-http://automationpractice.com/index.php
+2023-01-07 23:14:05 INFO  TC001_VerifyLoginPageTest:18 - *************Verify Login Page Test started ***********
+2023-01-07 23:14:05 INFO  TestBase:114 - Browser session is closed
+2023-01-13 12:21:26 INFO  TestBase:93 - chrome is selected
+2023-01-13 12:21:27 INFO  TestBase:103 - Navigated to  :-http://automationpractice.com/index.php
+2023-01-13 12:21:27 INFO  TC001_VerifyLoginPageTest:18 - *************Verify Login Page Test started ***********
+2023-01-13 12:21:28 INFO  TestBase:114 - Browser session is closed

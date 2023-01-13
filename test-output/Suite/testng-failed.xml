@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.framework.listeners.ListenerTest"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.POM_Framework.testscripts.TC002_VerifyRegisterPage">
+        <methods>
+          <include name="testStart"/>
+          <include name="beforeMethod"/>
+          <include name="endTest"/>
+          <include name="afterMethod"/>
+          <include name="verifyLoginOperation"/>
+        </methods>
+      </class> <!-- com.POM_Framework.testscripts.TC002_VerifyRegisterPage -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
